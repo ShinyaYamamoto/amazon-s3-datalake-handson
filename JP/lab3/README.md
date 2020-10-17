@@ -14,7 +14,7 @@ Fluentd から Elasticsearch Service に送信する前段に Amazon CloudWatch�
 
 作成済の「 **handson-minilake**（任意）」の IAM ロールに以下のようにポリシーを追加します。
 
- 1. AWS マネジメントコンソールのサービス一覧から **IAM** を選択し、 **[Identity and Access Management (IAM)]** 画面の左ペインから **[ロール]** を選択し、「 **handson-minilake**（任意）」のロール名をクリックします。
+ 1. AWS マネジメントコンソールのサービス一覧から **IAM** を選択し、 **[Identity and Access Management (IAM)]** 画面の左ペインから **[ロール]** を選択し、「 **handson-minilake-role**（任意）」のロール名をクリックします。
 
  2. **[アクセス権限]** タブを選択し、 **[ポリシーのアタッチ]** をクリックします。
 
